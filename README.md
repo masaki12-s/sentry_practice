@@ -41,7 +41,10 @@ dockerで構築できるので今回はそれを試す
     コンテナが実行されると http://localhost:9000 からアクセスできる
 
 
+## 設定
+### SDKの導入
 ```
 npm install --save @sentry/browser @sentry/tracing
 ```
+
 
