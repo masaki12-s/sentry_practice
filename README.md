@@ -43,8 +43,10 @@ dockerで構築できるので今回はそれを試す
 
 ## 設定
 ### SDKの導入
+GUIで設定用のスクリプトが表示されるのでコピペ
+以下はnodeの場合
 ```
-npm install --save @sentry/browser @sentry/tracing
+npm install --save @sentry/node @sentry/tracing
 ```
 
 
